@@ -14,18 +14,6 @@
   <img src="https://img.shields.io/badge/ Python-ede9e6?style=flat-square&logo=Python&logoColor=3776AB"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/ React Native-ede9e6?style=flat-square&logo=React&logoColor=61DAFB"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/ Expo-ede9e6?style=flat-square&logo=Expo&logoColor=000020"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/ Flask-ede9e6?style=flat-square&logo=Flask&logoColor=000020"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/ Node.js-ede9e6?style=flat-square&logo=Node.js&logoColor=000020"/>
-</span>
-<span>
   <img src="https://img.shields.io/badge/ Git-ede9e6?style=flat-square&logo=Git&logoColor=000020"/>
 </span>
 <span>
