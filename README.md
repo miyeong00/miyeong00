@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/ Python-ede9e6?style=flat-square&logo=Python&logoColor=3776AB"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/ Java-ede9e6?style=flat-square&logo=Python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/ Java-ede9e6?style=flat-square&logo=Java&logoColor=3776AB"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/ Git-ede9e6?style=flat-square&logo=Git&logoColor=000020"/>
