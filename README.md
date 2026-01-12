@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/Java-ede9e6?style=flat-square&logo=openjdk&logoColor=3776AB"/>
 </span>
 <span>
+  <img src="https://img.shields.io/badge/JavaScript-ede9e6?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Vue.js-ede9e6?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Django-ede9e6?style=flat-square&logo=django&logoColor=092E20"/>
+</span>
+<span>
   <img src="https://img.shields.io/badge/Git-ede9e6?style=flat-square&logo=Git&logoColor=F05032"/>
 </span>
 <span>
